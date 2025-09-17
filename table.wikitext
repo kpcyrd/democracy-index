@@ -1,0 +1,1011 @@
+|-
+|1
+|{{steady}}
+| style="text-align:left;" |{{NOR}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.81'''}}
+|{{steady}}||10.00||9.64||10.00||10.00||9.41
+|-
+|2
+|{{steady}}
+| style="text-align:left;" |{{NZL}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.61'''}}
+|{{steady}}||10.00||9.29||10.00||8.75||10.00
+|-
+|3
+|{{Increase}} 1
+| style="text-align:left;" |{{SWE}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.39'''}}
+|{{steady}}||9.58||9.64||8.33||10.00||9.41
+|-
+|4
+|{{Decrease}} 1
+| style="text-align:left;" |{{ICE}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.38'''}}
+|{{Decrease}} 0.07||10.00||8.93||8.89||9.38||9.71
+|-
+|5
+|{{Increase}} 3
+| style="text-align:left;" |{{CHE}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.32'''}}
+|{{Increase}} 0.18||9.58||9.29||8.33||10.00||9.41
+|-
+|6
+|{{Decrease}} 1
+| style="text-align:left;" |{{FIN}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.30'''}}
+|{{steady}}||10.00||9.64||7.78||9.38||9.71
+|-
+|7
+|{{Decrease}} 1
+| style="text-align:left;" |{{DNK}}
+|Full democracy|| style="background:#0c3091;" |{{white|'''9.28'''}}
+|{{steady}}||10.00||9.29||8.33||9.38||9.41
+|-
+|8
+|{{Decrease}} 1
+| style="text-align:left;" |{{IRL}}
+|Full democracy|| style="background:#0c3091; color: white;" |'''9.19'''
+|{{steady}}||10.00||8.21||8.33||10.00||9.41
+|-
+|9
+|{{steady}}
+| style="text-align:left;" |{{NLD}}
+|Full democracy|| style="background:#0c3091; color: white;" |'''9.00'''
+|{{steady}}||9.58||8.93||8.33||8.75||9.41
+|-
+|10
+|{{Increase}} 1
+| style="text-align:left;" |{{LUX}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.88'''
+|{{Increase}} 0.07||10.00||9.29||6.67||8.75||9.71
+|-
+|11
+|{{Increase}} 3
+| style="text-align:left;" |{{AUS}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.85'''
+|{{Increase}} 0.19||10.00||8.57||7.22||8.75||9.71
+|-
+|12
+|{{Decrease}} 2
+| style="text-align:left;" |{{TWN}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.78'''
+||{{Decrease}} 0.14||10.00||8.57||7.78||8.13||9.41
+|-
+|13
+|{{Decrease}} 1
+| style="text-align:left;" |{{DEU}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.73'''
+|{{Decrease}} 0.07||9.58||8.21||8.33||8.13||9.41
+|-
+|14
+|{{Decrease}} 1
+| style="text-align:left;" |{{CAN}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.69'''
+|{{steady}}||10.00||8.21||8.89||7.50||8.82
+|-
+|15
+|{{Decrease}} 1
+| style="text-align:left;" |{{URY}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.67'''
+|{{Increase}} 0.01 ||10.00||9.29||7.78||6.88||9.41
+|-
+|16
+|{{Steady}}
+| style="text-align:left;" |{{JPN}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.48'''
+|{{Increase}} 0.08||9.58||8.93||6.67||8.13||9.12
+|-
+|17
+|{{Increase}} 1
+| style="text-align:left;" |{{GBR}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.34'''
+|{{Increase}} 0.06||9.58||7.50||8.33||6.88||9.41
+|-
+|18
+|{{Decrease}} 1
+| style="text-align:left;" |{{CRI}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.29'''
+|{{Steady}}||9.58||7.50||7.78||6.88||9.71
+|-
+|19
+|{{Decrease}} 1
+| style="text-align:left;" |{{AUT}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.28'''
+|{{Steady}}||9.58||7.50||8.89||6.88||8.53
+|-
+|20
+|{{Steady}}
+| style="text-align:left;" |{{MUS}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.23'''
+|{{Increase}} 0.09||9.58||7.86||6.11||8.75||8.82
+|-
+|21
+|{{Increase}} 6
+| style="text-align:left;" |{{EST}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.13'''
+|{{Increase}} 0.17||10.00||8.57||6.67||6.88||8.53
+|-
+| data-sort-value="23" |22
+|{{Increase}} 2
+| style="text-align:left;" |{{ESP}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.13'''
+|{{Increase}} 0.06||9.58||7.50||7.22||7.50||8.82
+|-
+|23
+|{{Increase}} 3
+| style="text-align:left;" |{{CZE}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.08'''
+|{{Increase}} 0.11||9.58||6.43||7.78||7.50||9.12
+|-
+|24
+|{{Increase}} 8
+| style="text-align:left;" |{{PRT}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.08'''
+|{{Increase}} 0.33||9.58||7.14||6.11||8.75||8.82
+|-
+|25
+|{{Decrease}} 5
+| style="text-align:left;" |{{GRC}}
+|Full democracy|| style="background:#2f5cd5; color: white;" |'''8.07'''
+|{{Decrease}} 0.07||10.00||6.79||7.22||7.50||8.82
+|-
+|- class="sortbottom" id="Flawed democracies"
+! colspan="11" | Flawed democracies
+|-
+|26
+|{{Decrease}} 3
+| style="text-align:left;" |{{FRA}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.99'''
+|{{Decrease}} 0.08||9.58||7.50||7.78||6.88||8.24
+|-
+|27
+|{{Increase}} 1
+| style="text-align:left;" |{{MLT}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.93'''
+|{{steady}}||9.17||7.14||6.67||8.13||8.53
+|-
+|28
+|{{Increase}} 1
+| style="text-align:left;" |{{USA}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.85'''
+|{{steady}}||9.17||6.43||8.89||6.25||8.53
+|-
+|29
+|{{Decrease}} 4
+| style="text-align:left;" |{{CHL}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.83'''
+|{{Decrease}} 0.15||9.58||7.86||6.67||5.63||9.41
+|-
+|30
+|{{Increase}} 1
+| style="text-align:left;" |{{SVN}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.82'''
+|{{Increase}} 0.07 ||9.58||7.50||7.22||6.25||8.53
+|-
+|31
+|{{Decrease}} 1
+| style="text-align:left;" |{{ISR}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.80'''
+|{{steady}}||9.58||7.50||9.44||6.88||5.59
+|-
+|32
+|{{Decrease}} 10
+| style="text-align:left;" |{{KOR}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.75'''
+|{{Decrease}} 0.34 ||9.58||7.50||7.22||5.63||8.82
+|-
+|33
+|{{Increase}} 4
+| style="text-align:left;" |{{LVA}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.66'''
+|{{Increase}} 0.28||10.00||7.14||6.67||6.25||8.24
+|-
+|34
+|{{Increase}} 2
+| style="text-align:left;" |{{BEL}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.64'''
+|{{steady}}||9.58||8.21||5.00||6.88||8.53
+|-
+|35
+|{{Decrease}} 2
+| style="text-align:left;" |{{BWA}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.63'''
+|{{Decrease}} 0.10||9.58||6.43||6.11||7.50||8.53
+|-
+|36
+|{{Increase}} 3
+| style="text-align:left;" |{{LTU}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.59'''
+|{{Increase}} 0.28||10.00||7.14||6.67||5.63||8.53
+|-
+|37
+|{{Decrease}} 2
+| style="text-align:left;" |{{CPV}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.58'''
+|{{Decrease}} 0.07 ||9.17||6.64||6.67||6.88||8.53
+|-
+|38
+|{{Decrease}} 3
+| style="text-align:left;" |{{ITA}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.58'''
+|{{Decrease}} 0.11||9.58||7.14||7.22||6.88||7.06
+|-
+|39
+|{{Increase}} 2
+| style="text-align:left;" |{{POL}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.40'''
+|{{Increase}} 0.22||10.00||6.43||6.67||6.25||7.65
+|-
+|40
+|{{Decrease}} 3
+| style="text-align:left;" |{{CYP}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.38'''
+|{{steady}}||9.17||5.36||6.67||6.88||8.82
+|-
+|41
+|{{steady}}
+| style="text-align:left;" |{{IND}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.29'''
+|{{Increase}} 0.11||8.67||7.50||7.22||6.88||6.18
+|-
+|42
+|{{Increase}} 2
+| style="text-align:left;" |{{SVK}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.21'''
+|{{Increase}} 0.14 ||10.00||6.07||6.11||5.63||8.24
+|-
+|43
+|{{Increase}} 4
+| style="text-align:left;" |{{ZAF}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.16'''
+|{{Increase}} 0.11 ||9.17||6.79||7.78||5.00||7.06
+|-
+|44
+|{{Decrease}} 4
+| style="text-align:left;" |{{MYS}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.11'''
+|{{Decrease}} 0.18||9.58||7.14||6.67||6.25||5.88
+|-
+|45
+|{{Decrease}} 2
+| style="text-align:left;" |{{TTO}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.09'''
+|{{Decrease}} 0.07||9.58||6.79||6.11||5.63||7.35
+|-
+|data-sort-value="45"|46
+|{{Decrease}} 1
+| style="text-align:left;" |{{TLS}}
+|Flawed democracy|| style="background:#6bd2df; color: black;" |'''7.03'''
+|{{Decrease}} 0.03 ||9.58||6.07||5.56||6.88||7.06
+|-
+|47
+|{{Increase}} 1
+| style="text-align:left;" |{{PAN}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.84'''
+|{{Decrease}} 0.07 ||9.58||5.71||7.22||3.75||7.94
+|-
+|48
+|{{Increase}} 1
+| style="text-align:left;" |{{SUR}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.79'''
+|{{Decrease}} 0.09||9.58||5.36||6.67||5.00||7.35
+|-
+|49
+|{{Decrease}} 4
+| style="text-align:left;" |{{JAM}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.74'''
+|{{Decrease}} 0.32||8.75||6.43||5.00||5.00||8.53
+|-
+|50
+|{{Increase}} 2
+| style="text-align:left;" |{{MNE}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.73'''
+|{{Increase}} 0.06||8.75||7.14||6.67||3.75||7.35
+|-
+|51
+|{{Increase}} 2
+| style="text-align:left;" |{{PHL}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.63'''
+|{{Decrease}} 0.03||8.75||4.64||8.33||4.38||7.06
+|-
+|52
+|{{Increase}} 9
+| style="text-align:left;" |{{DOM}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.62'''
+|{{Increase}} 0.18||9.17||5.00||7.22||4.38||7.35
+|-
+|53
+|{{Increase}} 6
+| style="text-align:left;" |{{MNG}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.53'''
+|{{Increase}} 0.05||8.75||5.71||6.67||5.63||5.88
+|-
+|54
+|{{steady}}
+| style="text-align:left;" |{{ARG}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.51'''
+|{{Decrease}} 0.11||9.17||5.00||6.11||3.75||8.53
+|-
+|55
+|{{Decrease}} 4
+| style="text-align:left;" |{{HUN}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.51'''
+|{{Decrease}} 0.21||8.75||5.71||4.44||6.88||6.76
+|-
+|56
+|{{Increase}} 2
+| style="text-align:left;" |{{HRV}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.50'''
+|{{steady}}||9.17||6.07||6.11||4.38||6.76
+|-
+|57
+|{{Decrease}} 6
+| style="text-align:left;" |{{BRA}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.49'''
+|{{Decrease}} 0.19||9.58||5.00||6.11||5.00||6.76
+|-
+|58
+|{{Decrease}} 1
+| style="text-align:left;" |{{NAM}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.48'''
+|{{Decrease}} 0.04 ||7.42||5.36||6.67||5.00||7.94
+|-
+|59
+|{{Decrease}} 3
+| style="text-align:left;" |{{IDN}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.44'''
+|{{Decrease}} 0.09||7.92||6.79||7.22||5.00||5.29
+|-
+|60
+|{{Decrease}} 5
+| style="text-align:left;" |{{COL}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.35'''
+|{{Decrease}} 0.20||9.17||5.71||6.11||3.13||7.65
+|-
+|61
+|{{Increase}} 1
+| style="text-align:left;" |{{BGR}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.34'''
+|{{Decrease}} 0.07||8.75||5.36||5.56||4.38||7.65
+|-
+|62
+|{{Increase}} 10
+| style="text-align:left;" |{{MKD}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.28'''
+|{{Increase}} 0.25||8.75||6.07||6.11||3.13||7.35
+|-
+|63
+|{{steady}}
+| style="text-align:left;" |{{THA}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.27'''
+|{{Decrease}} 0.08||6.50||5.00||8.33||5.63||5.88
+|-
+|64
+|{{steady}}
+| style="text-align:left;" |{{SRB}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.26'''
+|{{Decrease}} 0.07 ||7.83||5.71||6.67||3.75||7.35
+|-
+|65
+|{{steady}}
+| style="text-align:left;" |{{GHA}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.24'''
+|{{Decrease}} 0.06||8.33||4.64||6.11||6.25||5.88
+|-
+|66
+|{{steady}}
+| style="text-align:left;" |{{ALB}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.20'''
+|{{Decrease}} 0.08||7.00||5.71||5.00||6.25||7.06
+|-
+|67
+|{{Increase}} 3
+| style="text-align:left;" |{{LKA}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.19'''
+|{{Increase}} 0.02||7.00||4.29||7.22||6.25||6.18
+|-
+|68
+|{{Increase}} 1
+| style="text-align:left;" |{{SGP}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.18'''
+|{{steady}}||5.33||7.14||4.44||7.50||6.47
+|-
+|69
+|{{Decrease}} 2
+| style="text-align:left;" |{{GUY}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.11'''
+|{{Decrease}} 0.15||6.92||6.07||6.11||5.00||6.47
+|-
+|70
+|{{Increase}} 1
+| style="text-align:left;" |{{LSO}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.06'''
+|{{steady}}||9.17||3.79||5.56||5.63||6.18
+|-
+|71
+|{{Decrease}} 3
+| style="text-align:left;" |{{MDA}}
+|Flawed democracy|| style="background:#c3eded; color: black;" |'''6.04'''
+|{{Decrease}} 0.19 ||6.50||5.36||7.22||4.38||6.76
+|-
+|- class="sortbottom" id="Hybrid regimes"
+! colspan="11" | Hybrid regimes
+|-
+|72
+|{{Decrease}} 12
+| style="text-align:left;" |{{ROU}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.99'''
+|{{Decrease}} 0.46||8.25||5.36||5.56||3.75||7.06
+|-
+|73
+|{{Decrease}} 1
+| style="text-align:left;" |{{PNG}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.97'''
+|{{Decrease}} 0.06||6.92||6.07||3.89||5.63||7.35
+|-
+|74
+|{{Increase}} 9
+| style="text-align:left;" |{{SEN}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.93'''
+|{{Increase}} 0.45||7.42||5.36||4.44||6.25||6.18
+|-
+|75
+|{{Decrease}} 1
+| style="text-align:left;" |{{PRY}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.92'''
+|{{Decrease}} 0.08||8.33||5.36||6.67||1.88||7.35
+|-
+|76
+|{{steady}}
+| style="text-align:left;" |{{MWI}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.85'''
+|{{steady}}||7.00||4.29||5.56||6.25||6.18
+|-
+|77
+|{{Increase}} 1
+| style="text-align:left;" |{{ZMB}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.73'''
+|{{Decrease}} 0.07||7.92||3.29||5.00||6.88||5.59
+|-
+|78
+|{{Decrease}} 1
+| style="text-align:left;" |{{PER}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.69'''
+|{{Decrease}} 0.12 ||8.75||5.71||5.00||2.50||6.47
+|-
+|79
+|{{Increase}} 2
+| style="text-align:left;" |{{BTN}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.65'''
+|{{Increase}} 0.11||8.75||5.93||3.89||5.00||4.71
+|-
+|80
+|{{Decrease}} 1
+| style="text-align:left;" |{{LBR}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.57'''
+|{{steady}}||7.83||2.71||6.11||5.63||5.59
+|-
+|81
+|{{Decrease}} 1
+| style="text-align:left;" |{{FJI}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.39'''
+|{{Decrease}} 0.16||6.58||5.00||4.44||5.63||5.29
+|-
+|82
+|{{Increase}} 2
+| style="text-align:left;" |{{ARM}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.35'''
+|{{Decrease}} 0.07 ||7.92||4.29||6.11||3.13||5.29
+|-
+|83
+|{{Increase}} 4
+| style="text-align:left;" |{{MDG}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.33'''
+|{{Increase}} 0.07||6.58||3.93||6.11||5.63||4.41
+|-
+|84
+|{{Increase}} 6
+| style="text-align:left;" |{{MEX}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.32'''
+|{{Increase}} 0.18||6.92||5.00||7.22||1.88||5.59
+|-
+|85
+|{{steady}}
+| style="text-align:left;" |{{ECU}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.24'''
+|{{Decrease}} 0.17||8.75||5.00||5.56||1.88||5.00
+|-
+|86
+|{{steady}}
+| style="text-align:left;" |{{TZA}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.20'''
+|{{Decrease}} 0.15||4.42||5.00||5.00||6.88||4.71
+|-
+|87
+|{{Increase}} 1
+| style="text-align:left;" |{{HKG}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.09'''
+|{{Decrease}} 0.15||2.75||4.00||3.89||6.88||7.94
+|-
+|88
+|{{Increase}} 6
+| style="text-align:left;" |{{BIH}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.06'''
+|{{Increase}} 0.06||7.00||3.64||5.00||3.75||5.88
+|-
+|89
+|{{Increase}} 3
+| style="text-align:left;" |{{KEN}}
+|Hybrid regime|| style="background:#f9f8bb; color: black;" |'''5.05'''
+|{{steady}}||3.50||5.36||6.67||5.63||4.12
+|-
+|90
+|{{Increase}} 5
+| style="text-align:left;" |{{HND}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.98'''
+|{{steady}}||8.75||3.93||4.44||2.50||5.29
+|-
+|91
+|{{Increase}} 2
+| style="text-align:left;" |{{MAR}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.97'''
+|{{Decrease}} 0.05||5.25||4.29||5.56||5.63||4.12
+|-
+|92
+|{{Decrease}} 1
+| style="text-align:left;" |{{UKR}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.90'''
+|{{Decrease}} 0.16||5.17||2.71||7.22||5.00||4.41
+|-
+|93
+|{{Decrease}} 11
+| style="text-align:left;" |{{TUN}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.71'''
+|{{Decrease}} 0.80||3.42||3.93||5.56||5.63||5.00
+|-
+|94
+|{{Decrease}} 5
+| style="text-align:left;" |{{GEO}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.70'''
+|{{Decrease}} 0.50||5.67||3.21||5.56||3.75||5.59
+|-
+|95
+|{{Increase}} 1
+| style="text-align:left;" |{{SLV}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.61'''
+|{{Decrease}} 0.10||6.17||3.21||5.56||3.13||5.00
+|-
+|96
+|{{Increase}} 2
+| style="text-align:left;" |{{NPL}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.60'''
+|{{steady}}||4.83||5.36||5.00||2.50||5.29
+|-
+|97
+|{{Increase}} 3
+| style="text-align:left;" |{{GTM}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.55'''
+|{{Increase}} 0.08||6.08||3.93||5.00||1.88||5.88
+|-
+|98
+|{{Increase}} 1
+| style="text-align:left;" |{{UGA}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.49'''
+|{{steady}}||3.42||3.57||3.89||6.88||4.71
+|-
+|99
+|{{Increase}} 1
+| style="text-align:left;" |{{GMB}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.47'''
+|{{steady}}||4.42||4.29||3.89||5.63||4.12
+|-
+|100
+|{{Decrease}} 25
+| style="text-align:left;" |{{BGD}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.44'''
+|{{Decrease}} 1.43||6.08||2.57||5.00||5.00||3.53
+|-
+|101
+|{{Decrease}} 3
+| style="text-align:left;" |{{BEN}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.44'''
+|{{Decrease}} 0.24||1.75||5.36||4.44||6.25||4.41
+|-
+|102
+|{{Increase}} 1
+| style="text-align:left;" |{{SLE}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.32'''
+|{{steady}}||4.83||2.86||3.89||5.00||5.00
+|-
+|103
+|{{Increase}} 3
+| style="text-align:left;" |{{BOL}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.26'''
+|{{Increase}} 0.06||4.33||3.93||5.56||1.88||5.59
+|-
+|104
+|{{Decrease}} 1
+| style="text-align:left;" |{{TUR}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.26'''
+|{{Decrease}} 0.07||3.50||4.64||6.11||5.00||2.06
+|-
+|105
+|{{steady}}
+| style="text-align:left;" |{{CIV}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.22'''
+|{{steady}} ||4.33||2.86||4.44||5.63||3.82
+|-
+|106
+|{{Decrease}} 2
+| style="text-align:left;" |{{NGA}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.16'''
+|{{Decrease}} 0.07||5.17||3.57||3.89||3.75||4.41
+|-
+|107
+|{{steady}}
+| style="text-align:left;" |{{AGO}}
+|Hybrid regime|| style="background:#fad45d; color: black;" |'''4.05'''
+|{{Decrease}} 0.13 ||4.50||2.86||5.56||5.00||2.35
+|-
+|- class="sortbottom" id="Authoritarian regimes"
+! colspan="11" | Authoritarian regimes
+|-
+|108
+|{{steady}}
+| style="text-align:left;" |{{MRT}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.96'''
+|{{Decrease}} 0.18 ||3.50||3.21||5.56||3.13||4.41
+|-
+|109
+|{{Increase}} 3
+| style="text-align:left;" |{{LBN}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.56'''
+|{{steady}}||3.08||0.79||6.67||3.13||4.12
+|-
+|110
+|{{steady}}
+| style="text-align:left;" |{{ALG}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.55'''
+|{{Decrease}} 0.11 ||3.08||2.50||3.33||5.00||3.82
+|-
+|111
+|{{Decrease}} 2
+| style="text-align:left;" |{{KGZ}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.52'''
+|{{Decrease}} 0.18||3.42||1.86||3.89||3.13||5.29
+|-
+|112
+|{{Increase}} 3
+| style="text-align:left;" |{{PSE}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.44'''
+|{{Decrease}} 0.03||1.58||0.00||8.33||3.75||3.53
+|-
+|113
+|{{steady}}
+| style="text-align:left;" |{{MOZ}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.38'''
+|{{Decrease}} 0.13||1.67||1.43||5.56||5.00||3.24
+|-
+|114
+|{{Increase}} 3
+| style="text-align:left;" |{{RWA}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.34'''
+|{{Increase}} 0.04||1.42||4.29||3.33||5.00||2.65
+|-
+| data-sort-value="122" |115
+|{{Increase}} 7
+| style="text-align:left;" |{{JOR}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.28'''
+|{{Increase}} 0.24||3.08||2.86||4.44||2.50||3.53
+|-
+|116
+|{{steady}}
+| style="text-align:left;" |{{ETH}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.24'''
+|{{Decrease}} 0.13||0.42||2.86||6.11||5.63||1.18
+|-
+|117
+|{{Decrease}} 6
+| style="text-align:left;" |{{QAT}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.17'''
+|{{Decrease}} 0.48||0.00||3.93||2.78||5.63||3.53
+|-
+|118
+|{{Increase}} 2
+| style="text-align:left;" |{{KAZ}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.08'''
+|{{Steady}}||0.50||3.21||5.00||3.75||2.94
+|-
+|119
+|{{Increase}} 6
+| style="text-align:left;" |{{ARE}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.07'''
+|{{Increase}} 0.06||0.00||4.29||2.78||5.63||2.65
+|-
+|120
+|{{Decrease}} 1
+| style="text-align:left;" |{{OMN}}
+|Authoritarian regime|| style="background:#da820f; color: white;" |'''3.05'''
+|{{Decrease}} 0.07||0.08||3.57||2.78||5.00||3.82
+|-
+|121
+|{{Increase}} 5
+| style="text-align:left;" |{{TGO}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.99'''
+|{{steady}}||0.92||2.14||3.33||5.63||2.94
+|-
+| data-sort-value="122" |122
+|{{steady}}
+| style="text-align:left;" |{{ZWE}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.98'''
+|{{Decrease}} 0.06||0.00||2.50||4.44||5.00||2.94
+|-
+|123
+|{{Decrease}} 2
+| style="text-align:left;" |{{KHM}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.94'''
+|{{Decrease}} 0.11||0.00||2.36||5.00||5.00||2.35
+|-
+|124
+|{{Decrease}} 2 || style="text-align:left;" |{{COM}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.84'''
+|{{Decrease}} 0.20||0.83||2.21||3.89||3.75||3.53
+|-
+|125
+|{{Decrease}} 6
+| style="text-align:left;" |{{PAK}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.84'''
+|{{Decrease}} 0.41||0.83||4.29||2.78||2.50||3.82
+|-
+|126
+|{{Increase}} 4
+| style="text-align:left;" |{{AZE}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.80'''
+|{{steady}}||0.50||2.50||3.33||5.00||2.65
+|-
+|127
+|{{Increase}} 2
+| style="text-align:left;" |{{IRQ}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.80'''
+|{{Decrease}} 0.08||4.83||0.00||6.11||1.88||1.18
+|-
+|128
+|{{Increase}} 3
+| style="text-align:left;" |{{COG}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.79'''
+|{{steady}}||0.00||2.50||4.44||3.75||3.24
+|-
+|129
+|{{Decrease}} 1
+| style="text-align:left;" |{{EGY}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.79'''
+|{{Decrease}} 0.14 ||0.42||2.86||3.89||5.00||1.76
+|-
+|130
+|{{Decrease}} 16
+| style="text-align:left;" |{{KWT}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.78'''
+|{{Decrease}} 0.72||0.92||3.21||2.78||3.75||3.24
+|-
+|131
+|{{Decrease}} 2
+| style="text-align:left;" |{{HTI}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.74'''
+|{{Decrease}} 0.07 ||0.00||0.29||2.78||5.63||5.00
+|-
+|132
+|{{Increase}} 2
+| style="text-align:left;" |{{DJI}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.70'''
+|{{steady}}||0.00||1.64||3.89||5.63||2.35
+|-
+|133
+|{{Increase}} 3
+| style="text-align:left;" |{{VNM}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.62'''
+|{{steady}}||0.00||3.93||2.78||3.75||2.65
+|-
+|134
+|{{Decrease}} 2
+| style="text-align:left;" |{{SWZ}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.60'''
+|{{Decrease}} 0.18||0.00||1.64||2.78||5.63||2.94
+|-
+|135
+|{{steady}}
+| style="text-align:left;" |{{CUB}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.58'''
+|{{Decrease}} 0.07||0.00||2.86||3.33||3.75||2.94
+|-
+|136
+|{{Increase}} 2
+| style="text-align:left;" |{{CMR}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.56'''
+|{{steady}}||0.33||2.14||3.89||4.38||2.06
+|-
+|137
+|{{Decrease}} 4
+| style="text-align:left;" |{{BFA}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.55'''
+|{{Decrease}} 0.18||0.00||2.14||3.33||3.75||3.53
+|-
+|138
+|{{Increase}} 1
+| style="text-align:left;" |{{BHR}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.45'''
+|{{Decrease}} 0.07||0.42||2.36||3.33||4.38||1.76
+|-
+|139
+|{{Decrease}} 2
+| style="text-align:left;" |{{MLI}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.40'''
+|{{Decrease}} 0.18||0.00||0.00||5.00||4.38||2.65
+|-
+|140
+|{{Increase}} 17
+| style="text-align:left;" |{{LBY}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.31'''
+|{{Increase}} 0.53||1.25||0.00||3.89||3.75||2.65
+|-
+|141
+|{{steady}}
+| style="text-align:left;" |{{NER}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.26'''
+|{{Decrease}} 0.11||0.33||1.14||1.67||3.75||4.41
+|-
+|142
+|{{steady}}
+| style="text-align:left;" |{{VEN}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.25'''
+|{{Decrease}} 0.06||0.00||1.07||5.00||3.13||2.06
+|-
+|143
+|{{Increase}} 3
+| style="text-align:left;" |{{GAB}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.18'''
+|{{steady}}||0.83||1.14||2.22||3.75||2.94
+|-
+|144
+|{{Increase}} 3
+| style="text-align:left;" |{{BDI}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.13'''
+|{{steady}}||0.00||0.00||3.89||5.00||1.76
+|-
+|145
+|{{Increase}} 3
+| style="text-align:left;" |{{CHN}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.11'''
+|{{Decrease}} 0.01||0.00||3.21||3.33||3.13||0.88
+|-
+|146
+|{{Increase}} 2
+| style="text-align:left;" |{{UZB}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.10'''
+|{{Decrease}} 0.02||0.00||1.86||2.78||5.00||0.88
+|-
+|147
+|{{Decrease}} 4
+| style="text-align:left;" |{{NIC}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.09'''
+|{{Decrease}} 0.17||0.00||2.14||2.78||3.75||1.76
+|-
+|148
+|{{steady}}
+| style="text-align:left;" |{{SAU}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.08'''
+|{{steady}}||0.00||3.57||2.22||3.13||1.47
+|-
+|149
+|{{Decrease}} 4
+| style="text-align:left;" |{{GIN}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.04'''
+|{{Decrease}} 0.17||0.00||0.43||3.33||4.38||2.06
+|-
+|150
+|{{Decrease}} 10
+| style="text-align:left;" |{{GNB}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.03'''
+|{{Decrease}} 0.42||2.17||0.00||2.78||3.13||2.06
+|-
+|151
+|{{Decrease}} 6
+| style="text-align:left;" |{{RUS}}
+|Authoritarian regime|| style="background:#a8261f; color: white;" |'''2.03'''
+|{{Decrease}} 0.19||0.00||2.14||2.22||3.75||2.06
+|-
+|152
+|{{Decrease}} 1
+| style="text-align:left;" |{{BLR}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.99'''
+|{{steady}}||0.00||0.79||3.33||4.38||1.47
+|-
+|153
+|{{Decrease}} 1
+| style="text-align:left;" |{{ERI}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.97'''
+|{{steady}}||0.00||2.14||0.56||6.88||0.29
+|-
+|154
+|{{Decrease}} 1
+| style="text-align:left;" |{{IRN}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.96'''
+|{{steady}}||0.00||2.50||3.33||2.50||1.47
+|-
+|155
+|{{Decrease}} 1
+| style="text-align:left;" |{{YEM}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.95'''
+|{{steady}}||0.00||0.00||3.89||5.00||0.88
+|-
+|156
+|{{Increase}} 4
+| style="text-align:left;" |{{COD}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.92'''
+|{{Increase}} 0.24 ||2.08||0.43||2.78||3.13||1.18
+|-
+|157
+|{{steady}}
+| style="text-align:left;" |{{GNQ}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.92'''
+|{{steady}}||0.00||0.43||3.33||4.38||1.47
+|-
+|158
+|{{Increase}} 3
+| style="text-align:left;" |{{TCD}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.89'''
+|{{Increase}} 0.22||0.00||0.00||3.33||3.75||2.35
+|-
+|159
+|{{Decrease}} 4
+| style="text-align:left;" |{{TJK}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.83'''
+|{{Decrease}} 0.11||0.00||2.21||1.67||4.38||0.88
+|-
+|160
+|{{Decrease}} 1
+| style="text-align:left;" |{{LAO}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.71'''
+|{{steady}}||0.00||2.86||1.67||3.75||0.29
+|-
+|161
+|{{Increase}} 1
+| style="text-align:left;" |{{TKM}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.66'''
+|{{steady}}||0.00||0.79||2.22||5.00||0.29
+|-
+|162
+|{{Decrease}} 4
+| style="text-align:left;" |{{SDN}}
+|Authoritarian regime|| style="background:#66000f; color: white;" |'''1.46'''
+|{{Decrease}} 0.30||0.00||0.00||1.11||5.63||0.59
+|-
+|163
+|{{steady}}
+| style="text-align:left;" |{{SYR}}
+|Authoritarian regime||  style="background:#66000f; color: white;" |'''1.32'''
+|{{Decrease}} 0.11 ||0.00||0.00||2.22||4.38||0.00
+|-
+|164
+|{{steady}}
+| style="text-align:left;" |{{CAF}}
+|Authoritarian regime||  style="background:#66000f; color: white;" |'''1.18'''
+|{{steady}}||0.00||0.00||1.67||1.88||2.35
+|-
+|165
+|{{steady}}
+| style="text-align:left;" |{{PRK}}
+|Authoritarian regime||  style="background:#66000f; color: white;" |'''1.08'''
+|{{steady}}||0.00||2.50||1.67||1.25||0.00
+|-
+|166
+|{{steady}}
+| style="text-align:left;" |{{MMR}}
+|Authoritarian regime||  style="background:#240011; color: white;" |'''0.96'''
+|{{Increase}} 0.11||0.00||0.00||1.67||3.13||0.00
+|-
+|167
+|{{steady}}
+| style="text-align:left;" |{{AFG}}
+|Authoritarian regime||  style="background:#240011; color: white;" |'''0.25'''
+|{{Decrease}} 0.01||0.00||0.00||0.00||1.25||0.00
+|}

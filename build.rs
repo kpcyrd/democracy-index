@@ -128,7 +128,7 @@ fn main() {
 
     src += "/// List of countries sorted by score\n";
     src += "pub const RANKING: &[(&str, DemocracyQualities)] = &[\n";
-    for country in ranking {
+    for country in &ranking {
         src += "(\"";
         src += country;
         src += "\", countries::";
@@ -136,6 +136,20 @@ fn main() {
         src += "),\n";
     }
     src += "];\n";
+
+    src += "/// Lookup data based on ISO 3166-1 alpha-3 code\n";
+    src += "pub fn get(country: &str) -> Option<&'static DemocracyQualities> {\n";
+    src += "match country {\n";
+    for country in &ranking {
+        src += "\"";
+        src += country;
+        src += "\" => Some(&countries::";
+        src += country;
+        src += "),\n";
+    }
+    src += "_ => None,\n";
+    src += "}\n";
+    src += "}\n";
 
     fs::write(out.join("gen.rs"), src).unwrap();
     println!("cargo:rerun-if-changed=table.wikitext");

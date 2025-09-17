@@ -74,6 +74,7 @@ mod tests {
                 civil_liberties: 941,
             }
         );
+        assert_eq!(get("SWE"), Some(&countries::SWE));
     }
 
     #[test]
@@ -90,6 +91,7 @@ mod tests {
                 civil_liberties: 529,
             }
         );
+        assert_eq!(get("NPL"), Some(&countries::NPL));
     }
 
     #[test]
@@ -106,6 +108,7 @@ mod tests {
                 civil_liberties: 294,
             }
         );
+        assert_eq!(get("CUB"), Some(&countries::CUB));
     }
 
     #[test]
@@ -122,5 +125,12 @@ mod tests {
                 civil_liberties: 0,
             }
         );
+        assert_eq!(get("PRK"), Some(&countries::PRK));
+    }
+
+    #[test]
+    fn test_get_invalid() {
+        assert_eq!(get("X"), None);
+        assert_eq!(get(""), None);
     }
 }

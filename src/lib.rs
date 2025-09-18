@@ -16,6 +16,17 @@ pub enum RegimeType {
     FullDemocracy,
 }
 
+impl RegimeType {
+    pub fn as_str(&self) -> &str {
+        match self {
+            Self::Authoritarian => "Authoritarian regime",
+            Self::HybridRegime => "Hybrid regime",
+            Self::FlawedDemocracy => "Flawed democracy",
+            Self::FullDemocracy => "Full democracy",
+        }
+    }
+}
+
 /// The various scores for a country
 #[derive(Debug, Clone, PartialEq, Eq)]
 pub struct DemocracyQualities {

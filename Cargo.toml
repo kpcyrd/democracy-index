@@ -1,7 +1,10 @@
 [package]
 name = "democracy-index"
 version = "0.1.0"
-license = "Apache-2.0 AND CC0-1.0"
+description = "Machine readable version of the The Economist Democracy Index Wikipedia article"
+authors = ["kpcyrd <git@rxv.cc>"]
+license = "0BSD AND CC0-1.0"
+repository = "https://github.com/kpcyrd/democracy-index"
 edition = "2024"
 
 [dependencies]

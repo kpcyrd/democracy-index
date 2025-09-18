@@ -1,5 +1,9 @@
 //! The Democracy Index published by the Economist Group is an index measuring the quality of democracy across the world.
 
+#![no_std]
+
+use core::fmt;
+
 /// The year the data is based on
 pub const REPORT_YEAR: u16 = 2024;
 
@@ -24,6 +28,12 @@ impl RegimeType {
             Self::FlawedDemocracy => "Flawed democracy",
             Self::FullDemocracy => "Full democracy",
         }
+    }
+}
+
+impl fmt::Display for RegimeType {
+    fn fmt(&self, w: &mut fmt::Formatter) -> fmt::Result {
+        write!(w, "{}", self.as_str())
     }
 }
 
@@ -52,7 +62,7 @@ mod tests {
 
     #[test]
     fn test_sort_regime_types() {
-        let mut list = vec![
+        let list = &mut [
             RegimeType::HybridRegime,
             RegimeType::FlawedDemocracy,
             RegimeType::Authoritarian,
